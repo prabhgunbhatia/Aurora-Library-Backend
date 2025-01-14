@@ -97,6 +97,9 @@ module.exports = User;
 - `bcryptjs`: Password hashing.
 - `jsonwebtoken`: JWT-based authentication.
 
+## Frontend 
+
+For the frontend code visit the [Aurora Library Repository](<https://github.com/prabhgunbhatia/Aurora-Library>).
 
 ## Contributing
 Contributions are welcome! Fork the repo and create a pull request.
